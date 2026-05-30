@@ -1,0 +1,6 @@
+{
+  "name": "Hindia & Feast Fanbase",
+  "description": "An immersive, cinematic fanbase application celebrating the music, philosophy, and universe of Indonesian indie icons Hindia and Feast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
